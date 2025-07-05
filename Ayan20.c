@@ -5,7 +5,7 @@ int main(void){
     printf("\n\nfunction:a simple structure of function:\n");
     printf("-------------------------\n");
     total=sum(5,6);
-    printf(" the totalis :%d\n ",total);
+    printf(" The total is :%d\n ",total);
     return 0;
 }
 int sum (int a ,int b)
